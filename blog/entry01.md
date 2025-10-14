@@ -14,7 +14,7 @@
 <h3>Problem Solving </h3>
  I have learned how to problem-solve. While researching I have come across information that was hard to understand. Instead of moving on I would go over it again and if that didn't work I would look up a specific phrase or term I was having trouble with. This gave me a better understanding of what I was researching.
 </p>
-<h1>summery</h1>
+<h1>summary</h1>
 <p>I am looking forward to moving on with this project and being able to inform more people about how technology affects architecture.</p>
 
 
