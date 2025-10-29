@@ -21,8 +21,9 @@ Topic: **architectur**
   * V-Ray is a tool for architects that plugs into 3D programs like SketchUp and Revit to turn basic models into high-quality, lifelike images and animations.
   * Think of V-Ray as the camera for your architectural drawings. It adds real-world lighting, shadows, and materials to your digital designs, so they look like actual photos before they are ever built.
   * <a href="https://vray.us/?srsltid=AfmBOopBi0mza8gwSFzDY44l3y0e8hxOqkK6tsoXqd5Q-10O3Rm84AKg">V-Ray</a></br>
-##Hardware
-*Smart locks
+## Hardware
+* Smart locks are things that arcatects will sugest that you put on your door as it can add an extra levle of protection and for some people it's an astectic choice.
+* <a href="https://www.homedepot.com/b/Smart-Home-Smart-Devices-Smart-Home-Security-Smart-Locks/N-5yc1vZc7by">Smart locks</a></br>
 
 ## Part B: possible future technology
 * Idea
