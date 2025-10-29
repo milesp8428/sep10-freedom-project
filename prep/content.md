@@ -1,5 +1,5 @@
 # Content
-Topic: **architectur**
+Topic: **architecture**
 
 ## Overview/Introduction/Context
 * Text
