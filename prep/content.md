@@ -26,9 +26,14 @@ Topic: **architecture**
   * Smart locks are things that arcatects will sugest that you put on your door as it can add an extra levle of protection and for some people it's an astectic choice.
   * <a href="https://www.homedepot.com/b/Smart-Home-Smart-Devices-Smart-Home-Security-Smart-Locks/N-5yc1vZc7by">Smart locks</a></br>
 * Motorized louvered roof pergola
-  * A Motorized louvered roof pergola is somthing that you can put outside that acts as a roof that oppens and closes.
+  * A Motorized louvered roof pergola is something that you can put outside that acts as a roof that opens and closes.
   * <a href="https://pergolaroof.com/louvered">motorized louvered roof pergola </a></br>
-
+* Digital pen
+  * A digital pen is something that architects use to create scechs.
+  * A digital pen allows you to draw on a computer or tablet this is useful because it makes it easier to get your work out to other people.
+  * A digital pen can make exact shapes which is very important for architects when they need to be precise with what they are drawing.
+  * <a href="https://www.xp-pen.com/blog/best-7-drawing-tablets-for-architects.html">Digital pen </a></br>
+  <img src="pen.jpg" alt="Flowers in Chania">
 ## Part B: possible future technology
 * Idea
   * Detail
