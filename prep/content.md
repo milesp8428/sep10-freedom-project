@@ -33,7 +33,7 @@ Topic: **Architecture**
   * A digital pen allows you to draw on a computer or tablet this is useful because it makes it easier to get your work out to other people.
   * A digital pen can make exact shapes which is very important for architects when they need to be precise with what they are drawing.
   * <a href="https://www.xp-pen.com/blog/best-7-drawing-tablets-for-architects.html">Digital pen </a></br>
- * Laser measures
+* Laser measures
   * A laser measure is somthing that lets you measuer the distance bettween two points.
   * A laser measure is useful because it is very acrurate and fast. This is improtant to arctects becuse it helps them get an over all feel of how far things are apart form one another.
   * <a href="technologyhttps://www.homedepot.com/c/ah/how-to-measure-distance-with-a-laser/9ba683603be9fa5395fab9012d8d2141">Laser measures </a></br>
