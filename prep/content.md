@@ -36,7 +36,7 @@ Topic: **Architecture**
 * Laser measures
   * A laser measure is somthing that lets you measuer the distance bettween two points.
   * A laser measure is useful because it is very acrurate and fast. This is improtant to arctects becuse it helps them get an over all feel of how far things are apart form one another.
-  * <a href="technologyhttps://www.homedepot.com/c/ah/how-to-measure-distance-with-a-laser/9ba683603be9fa5395fab9012d8d2141">Laser measures </a></br>
+  * <a href="https://www.johnsonlevel.com/News/LaserDistanceMeasure55">Laser measures </a></br>
 ## Part B: possible future 
 * Idea
   * Detail
