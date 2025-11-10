@@ -11,6 +11,8 @@
 <h1>Engineering Design Process</h1>
 I am in the second step of the engineering design process. In step one I decided what my goal was. My goal for the Engineering Design Process was to spread information about how technology is related to the architecture around you. In step two I wanted to do more research and have a better understanding of my goal and architecture in general. Although I have done some research I think it would be helpful if I did more. In the next step I would like to research possible solutions for my problem.
 
+<h1>Skills</h1>
+One of the skills I have learned so far is how to Google effectively to find what I'm looking for.  When I was looking for Hardware for architecture I found that just simply typing into the Google search bar architecture Hardware didn't give me what I needed.  This forced me to try other Google searches until I was able to find what I was looking for. The skill can be useful in other situations like if you had to do research on a topic and didn't know where to start. It would be very helpful to know how to search on Google to find what you're looking for. Another skill I learned was how to budget my time   so that I can put a better quality of work into what I'm doing. I knew that this blog was going to take me over an hour to do. But I didn't want to wait until right before I went to bed to do this because I didn't want to rush it and put in a lower quality of work. So I paced myself throughout the day chipping slowly at the project. This gave me time to look over what I wrote and make revisions that I felt were necessary.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
