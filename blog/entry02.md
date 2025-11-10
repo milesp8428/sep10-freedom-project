@@ -8,6 +8,9 @@
 <a href="https://oda-architecture.com/" target="_blank">"oda-architecture"</a>,
 <a href="https://www.archdaily.com/" target="_blank">"archdaily"</a>. These websites have given me a deeper insight to what architecture is really like And overall exposed me more to my topic. </p>
 
+<h1>Engineering Design Process</h1>
+I am in the second step of the engineering design process. In step one I decided what my goal was. My goal for the Engineering Design Process was to spread information about how technology is related to the architecture around you. In step two I wanted to do more research and have a better understanding of my goal and architecture in general. Although I have done some research I think it would be helpful if I did more. In the next step I would like to research possible solutions for my problem.
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
