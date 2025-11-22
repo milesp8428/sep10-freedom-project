@@ -1,7 +1,8 @@
 # Content
 Topic: **Architecture**
 
-## This is the content that I will put in my website about architecture. There is existing technology in part A and there is ideas that I came up with in part B that I thoughot would be useful for an archetect.
+## Overview/Introduction/Context
+This is the content that I will put in my website about architecture. There is existing technology in part A and there is ideas that I came up with in part B that I thoughot would be useful for an archetect.
 
 ## Part A: existing technology
 * Morpholio Trace - Sketch CAD</br>
