@@ -43,6 +43,13 @@ Topic: **Architecture**
 * Solar panel windows.
   * When you are gone you can put down your solar panel windows and they will act as solar panels on your windows.
 * An app that architects could use to help them make sketches.
-  *  You can put in the location you are going to make your building in, the amount of room you have to work with, what style you want to use, the amount of money you are able to use and what materials you want to use. The app will use ai to give you sketches of both the inside and the outside of the building along with this it will also give you a fool plan. You can make revisions until you get what you are looking for.
-![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuttGgNlYIVrt4guVXLin7YpxWOlY84mMnGVcdDEU3UIfg0dtxT0i5L6t71qag66P_CYasINMK)
+  * You can put in the location you are going to make your building in.
+  * The amount of room you have to work with.
+  * What style you want to use.
+  * The amount of money you are able to use.
+  * What materials you want to use.
+  * The app will use AI to give you sketches of both the inside and the outside of the building.
+  * It will  give you a fooler plan.
+  * You can make revisions until you get what you are looking for.
+  * ![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuttGgNlYIVrt4guVXLin7YpxWOlY84mMnGVcdDEU3UIfg0dtxT0i5L6t71qag66P_CYasINMK)
 
