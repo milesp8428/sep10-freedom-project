@@ -1,9 +1,7 @@
 # Content
 Topic: **Architecture**
 
-## Overview/Introduction/Context
-* Text
-* Text
+## This is the content that I will put in my website about architecture. There is existing technology in part A and there is ideas that I came up with in part B that I thoughot would be useful for an archetect.
 
 ## Part A: existing technology
 * Morpholio Trace - Sketch CAD</br>
@@ -42,6 +40,10 @@ Topic: **Architecture**
 ## Part B: possible future 
 * Solar panel windows.
   * When you are gone you can put down your solar panel windows and they will act as solar panels on your windows.
+  * It could have a switch that you could hit to put them down or up.
+  * There could be an AI the detects when you have left the house and it would put down the solar panels.
+  * If a light is off they could go down in that room.
+  * They could turn to the sun to get as much sunlight as possible.
 * An app that architects could use to help them make sketches.
   * You can put in the location you are going to make your building in.
   * The amount of room you have to work with.
