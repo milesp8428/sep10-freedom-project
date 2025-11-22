@@ -38,5 +38,8 @@ Topic: **Architecture**
   * A laser measure is useful because it is very acrurate and fast. This is improtant to arctects becuse it helps them get an over all feel of how far things are apart form one another.
   * <a href="https://www.johnsonlevel.com/News/LaserDistanceMeasure55">Laser measures </a></br>
 ## Part B: possible future 
-* Idea
-  * Detail
+* Solar panel windows.
+  * When you are gone you can put down your solar panel windows and they will act as solar panels on your windows.
+* An app that architects could use to help them make sketches.
+  *  You can put in the location you are going to make your building in, the amount of room you have to work with, what style you want to use, the amount of money you are able to use and what materials you want to use. The app will use ai to give you sketches of both the inside and the outside of the building along with this it will also give you a fool plan. You can make revisions until you get what you are looking for.
+
