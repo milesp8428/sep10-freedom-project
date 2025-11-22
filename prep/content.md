@@ -9,9 +9,11 @@ Topic: **Architecture**
 * Morpholio Trace - Sketch CAD</br>
   * Morpholio Trace is a drawing and design app for Apple devices that blends the ease of hand-sketching with the precision of CAD.(Computer-Aided Design)</br>
   * <a href="https://www.morpholioapps.com/trace/">Morpholio Trace</a> </br>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgKTwZi4BUwvVtJvdHpsR2OtSwpPYbXeJOA&s)
 * roomscan pro lidar floor plans.</br>
   * roomscan pro lidar floor plans is a mobile app that lets you create a 2d and 3D floor plan.</br>
   * <a href="https://www.locometric.com/lidar">roomscan pro lidar floor plans</a></br>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCyn6471asAO9qlJAeWOydIeJCB5bmmlbJTA&s)
 * sketchup</br>
   * Creats 3d modles</br>
   * This helps architects and their clients visualize what they are making.</br>
@@ -42,4 +44,5 @@ Topic: **Architecture**
   * When you are gone you can put down your solar panel windows and they will act as solar panels on your windows.
 * An app that architects could use to help them make sketches.
   *  You can put in the location you are going to make your building in, the amount of room you have to work with, what style you want to use, the amount of money you are able to use and what materials you want to use. The app will use ai to give you sketches of both the inside and the outside of the building along with this it will also give you a fool plan. You can make revisions until you get what you are looking for.
+![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuttGgNlYIVrt4guVXLin7YpxWOlY84mMnGVcdDEU3UIfg0dtxT0i5L6t71qag66P_CYasINMK)
 
