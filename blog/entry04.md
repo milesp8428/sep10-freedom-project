@@ -24,6 +24,10 @@ This made the cylinder blow up on the screen. It looked huge now compared to how
 This made everything look crazy. There were boxes everywhere. I made sure to change the positioning of the boxes so they were not just on top of each other.
 <h1> Sources </h1>
 I tried out a few different sources, but what I found to be the most helpful was using  [aframe.io](https://aframe.io/). Because he gave me starter code and showed me how different aspects of A-Frame work. But I did browse on YouTube for different videos about a frame, and I watched a little bit of a bunch of different videos. I think the main thing that helped me out the most was changing things in my IDE and seeing how they change things when I went to preview the code. 
+<h1>Skills</h1>
+One of the skills that I developed while doing this was learning how to test things out. Being able to test things out is very important, especially when you have to try something out on your own. It's also a really good way of getting a good understanding of something because you're the one actually trying to hang out and you're not watching somebody else do it, so you get that first-hand experience. 
+
+Another skill I developed while doing this was how to learn from my mistakes. Instead of getting frustrated or ignoring a mistake, it's important to go back and understand why you made that mistake and why it happened, so you don't make it again in the future. This overall can give you a better understanding of what you're trying to do.
 
 
 [Previous](entry03.md) | [Next](entry05.md)
