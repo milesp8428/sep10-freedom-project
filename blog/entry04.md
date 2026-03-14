@@ -22,6 +22,8 @@ This made the cylinder blow up on the screen. It looked huge now compared to how
 ```
 
 This made everything look crazy. There were boxes everywhere. I made sure to change the positioning of the boxes so they were not just on top of each other.
+<h1> Sources </h1>
+I tried out a few different sources, but what I found to be the most helpful was using  [aframe.io](https://aframe.io/). Because he gave me starter code and showed me how different aspects of A-Frame work. But I did browse on YouTube for different videos about a frame, and I watched a little bit of a bunch of different videos. I think the main thing that helped me out the most was changing things in my IDE and seeing how they change things when I went to preview the code. 
 
 
 [Previous](entry03.md) | [Next](entry05.md)
