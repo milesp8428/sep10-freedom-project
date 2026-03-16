@@ -4,8 +4,8 @@
 
 ---
 
-### X/X/XX:
-* Text
+### 3/16/26:
+* The way to use the position is to think of it like x y and z cordantnts
 
 ### X/X/XX:
 * Text
