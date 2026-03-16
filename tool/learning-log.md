@@ -50,8 +50,52 @@
 
     * Specialty Primitives
     * Sky: <a-sky> — Adds a background color or a 360° "photo" to the entire scene.
-    * Curved Image: <a-curvedimage> — Displays an image on a curved surface. 
-  
+    * Curved Image: <a-curvedimage> — Displays an image on a curved surface.
+ * I contiuned to add to the house I was making
+  * I added a door and a floor this is what the code looks like:
+    ```html
+    <a-plane
+    position="0 0 0"
+    rotation="-90 0 0"
+    width="20"
+    height="20"
+    color="#7BC8A4">
+    </a-plane>
+
+
+    <a-box
+    position="1 0.5 3"
+    rotation="0 45 0"
+    color="#4CC3D9">
+    </a-box>
+
+
+    <a-cone
+    position="1 1.5 3"
+    rotation="0 90 0"
+    segments-radial="4"
+    radius-bottom="1"
+    height="1"
+    color="red">
+    </a-cone>
+    <a-plane
+      position="1.36 0.4 3.36"
+      rotation="0 45 0"
+      width="0.4"
+      height="0.7"
+      color="#5D4037">
+    </a-plane>
+    
+    
+    <a-plane
+      position="0.64 0.6 3.36"
+      rotation="0 90 0"
+      width="0.3"
+      height="0.3"
+      color="#FFFFFF">
+    </a-plane>
+    ```
+* Next, I think that I will make trees in front of the house, or i might try to make a pathway.  
 
 ### X/X/XX:
 * Text
