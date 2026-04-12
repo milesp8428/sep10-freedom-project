@@ -313,3 +313,189 @@
 * Questions you still have
 * What you're going to try next
 -->
+
+### 4/5/26:
+ In my last learning log i said that I wanted to make one of my drawings in A-Frame. This ended up being a lot harder than I thought it would be, and I couldn't add all of the little details that I wanted to. This is want the code looks like:
+ ```html
+ <!--right side-->
+  <a-box
+    position="39 1 -2"
+    width=".25"
+    height="4"
+    depth="3"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="35 1 -2"
+    width=".25"
+    height="4"
+    depth="3"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="37 1 -.5"
+    width="4.25"
+    height="4"
+    depth=".25"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="37 1 -3.5"
+    width="4.25"
+    height="4"
+    depth=".25"
+    color="grey">
+  </a-box>
+
+
+
+  <!-- Right Roof Panel -->
+  <a-box
+    position="38 3.5 -2.5"
+    scale="2.5 0.1 4.5"
+    rotation="0 0 -30"
+    color="grey"
+  ></a-box>
+
+
+
+   <a-box
+    position="36 3.5 -2.5"
+    scale="2.5 0.1 4.5"
+    rotation="0 0 30"
+    color="grey"
+  ></a-box>
+
+
+
+  <!--  Triangle -->
+  <a-triangle color="grey" vertices=" 9 -9 9" position="37 3.5 -.5"
+  scale="4 1.5 3.5"></a-triangle>
+
+<!--back part-->
+
+  <a-box
+    position="39 1 -5"
+    width=".25"
+    height="4"
+    depth="3"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="25 1 -5"
+    width=".25"
+    height="4"
+    depth="3"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="33 1 -3.5"
+    width="12"
+    height="4"
+    depth=".25"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="32 1 -6.5"
+    width="14"
+    height="4"
+    depth=".25"
+    color="grey">
+
+
+
+<!--roof-->
+  </a-box>
+<a-box
+    position="32 3.5 -6"
+    scale="2.5 0.1 15"
+    rotation="0 90 -30"
+    color="grey"
+  ></a-box>
+
+
+
+   <a-box
+    position="32 3.5 -4"
+    scale="2.5 0.1 15"
+    rotation="0 90 30"
+    color="grey"
+  ></a-box>
+
+
+
+
+
+
+
+
+
+
+  <!--left side-->
+  <a-box
+    position="29 1 -2"
+    width=".25"
+    height="4"
+    depth="3"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="25 1 -2"
+    width=".25"
+    height="4"
+    depth="3"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="27 1 -.5"
+    width="4.25"
+    height="4"
+    depth=".25"
+    color="grey">
+  </a-box>
+
+  <a-box
+    position="27 1 -3.5"
+    width="4.25"
+    height="4"
+    depth=".25"
+    color="grey">
+  </a-box>
+
+
+
+  <!-- Right Roof Panel -->
+  <a-box
+    position="28 3.5 -2.5"
+    scale="2.5 0.1 4.5"
+    rotation="0 0 -30"
+    color="grey"
+  ></a-box>
+
+
+
+   <a-box
+    position="26 3.5 -2.5"
+    scale="2.5 0.1 4.5"
+    rotation="0 0 30"
+    color="grey"
+  ></a-box>
+ <!-- Basic Triangle -->
+  <a-triangle color="grey" vertices=" 9 -9 9" position="25 3.5 -5"
+  scale="4 1.5 3.5"   rotation="0 90 0" ></a-triangle>
+
+
+  <!-- Basic Triangle -->
+  <a-triangle color="grey" vertices=" 9 -9 9" position="27 3.5 -.5"
+  scale="4 1.5 3.5"></a-triangle>
+
+ ```
+Something that has been makeing making things in A-Frame has been having to change the coordinates a lot because I already have stuff at the origin. So I think that for my next learning log, I will just make another file. I still want to continue to work on the cabin, so I'm going to copy and paste the code I worked on this week into the new file. Next, I'm going to add more details and change the colors so the entire house is not grey.
