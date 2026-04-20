@@ -499,3 +499,258 @@
 
  ```
 Something that has been makeing making things in A-Frame has been having to change the coordinates a lot because I already have stuff at the origin. So I think that for my next learning log, I will just make another file. I still want to continue to work on the cabin, so I'm going to copy and paste the code I worked on this week into the new file. Next, I'm going to add more details and change the colors so the entire house is not grey.
+
+### 4/13/26:
+As part of my plan, I wanted to change the color of the cabin from all grey to the colors of an actual cabin. First, I knew that I wanted the walls to be brown as if they were wood. I made the color brown, but this didn't look good, so I changed it to dark brown. This looked better. I originally made the roof brown. This looked treible then I turned it brown. This looked bad. I looked up what cabins look like, and a lot of the cabins had green roofs, so I made the roof green. This looked good. This is what the code looked like:
+```html
+  <a-box
+    position="39 1 -2"
+    width=".25"
+    height="4"
+    depth="3"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="35 1 -2"
+    width=".25"
+    height="4"
+    depth="3"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="37 1 -.5"
+    width="4.25"
+    height="4"
+    depth=".25"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="37 1 -3.5"
+    width="4.25"
+    height="4"
+    depth=".25"
+    color="#654321">
+  </a-box>
+
+
+
+  <!-- Right Roof Panel -->
+  <a-box
+    position="38 3.5 -2.5"
+    scale="2.5 0.1 4.5"
+    rotation="0 0 -30"
+    color="green"
+  ></a-box>
+
+
+
+   <a-box
+    position="36 3.5 -2.5"
+    scale="2.5 0.1 4.5"
+    rotation="0 0 30"
+    color="green"
+  ></a-box>
+
+
+
+  <!--  Triangle -->
+  <a-triangle color="#654321" vertices=" 9 -9 9" position="37 3.5 -.5"
+  scale="4 1.5 3.5"></a-triangle>
+
+<!--back part-->
+
+  <a-box
+    position="39 1 -5"
+    width=".25"
+    height="4"
+    depth="3"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="25 1 -5"
+    width=".25"
+    height="4"
+    depth="3"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="33 1 -3.5"
+    width="12"
+    height="4"
+    depth=".25"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="32 1 -6.5"
+    width="14"
+    height="4"
+    depth=".25"
+    color="#654321">
+
+
+
+<!--roof-->
+  </a-box>
+<a-box
+    position="32 3.5 -6"
+    scale="2.5 0.1 15"
+    rotation="0 90 -30"
+    color="green"
+  ></a-box>
+
+
+
+   <a-box
+    position="32 3.5 -4"
+    scale="2.5 0.1 15"
+    rotation="0 90 30"
+    color="green"
+  ></a-box>
+
+
+
+
+
+
+
+
+
+
+  <!--left side-->
+  <a-box
+    position="29 1 -2"
+    width=".25"
+    height="4"
+    depth="3"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="25 1 -2"
+    width=".25"
+    height="4"
+    depth="3"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="27 1 -.5"
+    width="4.25"
+    height="4"
+    depth=".25"
+    color="#654321">
+  </a-box>
+
+  <a-box
+    position="27 1 -3.5"
+    width="4.25"
+    height="4"
+    depth=".25"
+    color="#654321">
+  </a-box>
+
+
+
+  <!-- Right Roof Panel -->
+  <a-box
+    position="28 3.5 -2.5"
+    scale="2.5 0.1 4.5"
+    rotation="0 0 -30"
+    color="green"
+  ></a-box>
+
+
+
+   <a-box
+    position="26 3.5 -2.5"
+    scale="2.5 0.1 4.5"
+    rotation="0 0 30"
+    color="green"
+  ></a-box>
+ <!-- Basic Triangle -->
+  <a-triangle color="#654321" vertices=" 9 -9 9" position="25 3.5 -5"
+  scale="4 1.5 3.5"   rotation="0 90 0" ></a-triangle>
+
+
+  <!-- Basic Triangle -->
+  <a-triangle color="#654321" vertices=" 9 -9 9" position="27 3.5 -.5"
+  scale="4 1.5 3.5"></a-triangle>
+
+
+<a-box
+    position="32 0 -3.5"
+    scale="2 5 1"
+    color=" brown"></a-box>
+```
+As you can see, the cabin is now colored in. Along with colering this, I also made a door, and I made the door brown. Next, I added windows, then realized that I could incorporate my part B into it. The aspect of my part B that I wanted to incorporate was solarpanlal windos thses windoes can rotate to track the sun and can open and close. To show this, I made the windows in the act of rotating. This is what the code looked like:"
+```html
+<!--window1-->
+
+
+  <a-box
+    position="27 1.45 .1"
+    scale="2 2 .15"
+    color="#000080"
+    rotation="-30 0 0"
+    ></a-box>
+
+     <a-box
+    position="27 1.5 .1"
+    scale=".25 2 .25"
+    color="grey"
+    rotation="-30 0 0"
+    ></a-box>
+
+
+     <a-box
+    position="27 1.75 -.1"
+    scale="2 .25 .25"
+    color="grey"
+    rotation="-30 0 0"
+    ></a-box>
+
+     <a-box
+    position="27 1.15 .25"
+    scale="2 .25 .25"
+    color="grey"
+    rotation="-30 0 0"
+    ></a-box>
+
+<!--window2-->
+    <a-box
+    position="37 1.45 .1"
+    scale="2 2 .15"
+    color="#000080"
+    rotation="-30 0 0"
+    ></a-box>
+
+     <a-box
+    position="37 1.5 .1"
+    scale=".25 2 .25"
+    color="grey"
+    rotation="-30 0 0"
+    ></a-box>
+
+
+     <a-box
+    position="37 1.75 -.1"
+    scale="2 .25 .25"
+    color="grey"
+    rotation="-30 0 0"
+    ></a-box>
+
+     <a-box
+    position="37 1.15 .25"
+    scale="2 .25 .25"
+    color="grey"
+    rotation="-30 0 0"
+    ></a-box>
+```
+These windows kind of resemble what a solar panel looks like while still keeping them looking like a window. One of my classmates was showing me his prject he was editing his project while viewing it. He told me he was doing this by doing "Ctrl Alt I," but this doesn't put the code in, so it's good for doing something quick, but shouldn't be used for the entire project. I am also trying to make more of my code because I think it saves me a lot of time when it comes to looking through my code and referring back to it. I thought it would be cool to make the solar panel windows rotat but this was complicated i copy and pasted some code from the A-Frame website, but I am still trying to figure out how this works. In my planing i wanted to make grases and I wanted to transform the surroundings. This was a lot harder then i thought it would be at frist i wanted to just put flowers and grass in there manually. resied how long this would take, and fake it would look so I decided not to do it that way, then I looked at how to add grass to your A-Frame code, and what came up was Techerpack. I put this teacher's pack into my code, and it looked bad. not in a way where it was not aesthetically pleasing, but I simply didn't work it, glitched with the ground, and looked really bad, so I deleted it. I don't want to give up on adding this, but it's a lot of work to figure out right now, and when I have more time, this is what I want to work on.
+
