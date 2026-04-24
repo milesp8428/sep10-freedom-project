@@ -15,6 +15,11 @@
 #### MVP
 
 * Task/Timeline
+* weekend NAV
+* Weekend carousel
+* weekned intro/title
+* 4/27 bootstrapGrid
+* 
 
 ---
 
