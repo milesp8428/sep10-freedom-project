@@ -19,7 +19,9 @@
 * Weekend carousel
 * weekned intro/title
 * 4/27 bootstrapGrid
-* 
+* 4/28 bootstrap Grid
+* 4/29-30 Part A
+* 5/1-2 Part B
 
 ---
 
