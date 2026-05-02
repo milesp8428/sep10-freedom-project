@@ -1,6 +1,6 @@
 .my-container {
   width: 300px;
-  margin: 0 auto 20px auto; 
+  margin: 0 auto 20px auto;
 }
 
 .row-container {
@@ -42,8 +42,19 @@
 }
 
 
+.my-container2 {
+  width: 300px;
+  margin: 0 auto 20px auto;
+}
 
-
+.listforboxthing {
+  border: 2px solid #333;
+  padding: 20px;
+  border-radius: 8px;
+  list-style-position: inside;
+  display: inline-block;
+  min-width: 200px;       
+}
 
 
 
