@@ -53,9 +53,63 @@
   border-radius: 8px;
   list-style-position: inside;
   display: inline-block;
-  min-width: 200px;       
+  min-width: 200px;
+}
+
+.layout-container {
+  display: flex;
+  gap: 20px;
+  width: 1100px;
+  height: 500px;
+  margin: 50px auto;
+}
+
+.column-section {
+  flex: 1;
+  display: flex;
 }
 
 
+.left-col {
+  flex-direction: column;
+}
+
+.box {
+  border: 1px solid #333;
+}
+
+.top-box { flex: 1; }
+.bottom-box { flex: 2; }
 
 
+.right-col {
+  border: 1px solid #333;
+}
+
+.pane { flex: 1; }
+
+.gray-pane {
+  background-color: #e0e0e0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.img- {
+  width: 50px;
+  height: 40px;
+  background-color: #bbb;
+  border-radius: 4px;
+  position: relative;
+}
+
+.img-placeholder::after {
+  content: "Landscape Icon";
+  font-size: 8px;
+  color: white;
+  text-align: center;
+  display: block;
+  line-height: 40px;
+}
