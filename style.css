@@ -61,16 +61,16 @@
 
 
 
-/* This centers the three items and puts them in a row */
+
 .image-layout-wrapper {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 20px; /* Space between the images and the box */
+  gap: 20px;
 
 }
 
-/* Keeps the images a reasonable size */
+
 .side-img {
   mx-width: 1000px;
   heigt: auto;
