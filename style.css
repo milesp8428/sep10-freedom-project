@@ -53,7 +53,28 @@
   border-radius: 8px;
   list-style-position: inside;
   display: inline-block;
-  min-width: 200px;
+  min-wdth: 500px;
+  padding-right: 0px;
+  width: 500px;
+
+}
+
+
+
+/* This centers the three items and puts them in a row */
+.image-layout-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* Space between the images and the box */
+
+}
+
+/* Keeps the images a reasonable size */
+.side-img {
+  mx-width: 1000px;
+  heigt: auto;
+  border-radius: 100px;
 }
 
 .layout-container {
