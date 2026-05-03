@@ -27,7 +27,11 @@
 
 #### Beyond MVP
 
-* Task
+* background color
+* Side images
+* fonts
+* 
+* 
 
 
 
