@@ -43,7 +43,7 @@
 #### Peer Feedback 
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| William C | I like how you used cards to organize your part A and the borders, they look presentable and neat. | For Hardware, I recommend using an accordion as you have overused cards, and it will be more exciting when other people see different Bootstrap components. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
