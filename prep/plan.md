@@ -43,9 +43,9 @@
 #### Peer Feedback 
 
 | Name | Glows | Grows |
-| William C | I like how you used cards to organize your part A and the borders, they look presentable and neat. | For Hardwear, I recommend using an accordion as you have overused cards, and it will be more exciting when other people see different Bootstrap components. |
-|  |  |  |
-|  |  |  |
+| William C | I like how you used cards to organize your part A and the borders, they look presentable and neat. | For Hardware, I recommend using an accordion as you have overused cards, and it will be more exciting when other people see different Bootstrap components. |
+| Jasmine | I like how you included pictures, and your project is very organized | Nothing needs fixing; it's all good. |
+| Angel | I like the organization on your website, and the picture on the top looks very cool | Have you thought about making the images in the cards take the full width of the box you put them in? I feel like you could also add more color to your website|
 |  |  |  |
 |  |  |  |
 |  |  |  |
