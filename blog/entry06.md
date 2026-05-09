@@ -8,9 +8,11 @@ For my freedom project, I finished the MVP. This is like the skeleton of the web
 
 <h1> Challenges</h1>
 One of the challenges I faced was creating two pages, one for my Part A and one for my Part B. I wanted a button at the bottom of the page that connected the two pages. But I had no idea what to do to make this. But then I remembered what we did for the BR restaurant guide and how we linked different files together. This is what the code that inspired me looked like:
+
 ```html
-## [greek](greek.md)
+[greek](greek.md)
 ```
+
  This set me on the right track for creating a new page. So this would link two things together, and it wouldn't be hard to make a button, but I still didn't have a new page. So I made a new file, and I linked Part A to Part B. Then I looked up how to make a button, and this is what the code looks like:
 ```html
 <a href="part-b.html" class="btn btn-primary">View Part B</a>
@@ -25,7 +27,8 @@ Another challenge I faced was trying to link my A-frame to my part B. I wasn't s
 I used the same code that I used to make the other button to do this one. And then I messed around with the sizing a little bit until I got it to something that I thought looked good.
 
 <h1> Sources</h1>
- One of the sources that I use that I found really helpful was [w3schools](https://www.w3schools.com/). They had example code for almost everything that includes CSS and HTML. It was nice being able to copy and paste their example code into my IDE, see how it works, and then change it to be how I needed it. I also use my notes if I was stuck, I could refer back to my notes, and I usually had an example or an explanation there.
+
+ One of the sources that I use that I found really helpful was  [w3schools](https://www.w3schools.com/). They had example code for almost everything that includes CSS and HTML. It was nice being able to copy and paste their example code into my IDE, see how it works, and then change it to be how I needed it. I also use my notes if I was stuck, I could refer back to my notes, and I usually had an example or an explanation there.
 
 
 <h1> Engineering Design Process</h1>
