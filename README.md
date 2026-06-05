@@ -17,10 +17,15 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study Arc
 
 ## Implications
 ##### PROS
-* 
+* Governments might move funding towards architecture.
+* The website might make the job market for architects increase.
+* People might find more ways to blend culture through architecture.
+* The app that gives architects a cost estimate based on things like materials and location could help allow architects to express themselves more creatively because they know what their cost estimation is.
+* Solar panel windows could be a more environmentally friendly way of gathering energy rather than using fossil fuels. 
 ##### CONS
-* 
-
+* The app that gives architects a cost estimation could make architects more focused on getting as close to the maximum amount that they could spend rather than what they're actually doing.
+* Some people might take the blending of cultures as cultural appropriation due to architecture.
+* The government might use these technologies like solar panel windows for other uses rather than architecture.
 
 ## Blog
 Below you will find my blog about how I made my project.
