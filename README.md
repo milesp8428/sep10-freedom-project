@@ -1,18 +1,19 @@
 # SEP10 Freedom Project
-by **X**
+by Miles Post
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of Architecture. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study Architecture in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://milesp8428.github.io/sep10-freedom-project/
+)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1XcKFevykEYwtjLqce-tDtk4LrVcAsgsEamK0wg4uOiM/edit?slide=id.g3e1d4b56661_0_103#slide=id.g3e1d4b56661_0_103)
 
 ## Implications
 ##### PROS
